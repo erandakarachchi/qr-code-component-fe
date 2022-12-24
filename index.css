@@ -25,13 +25,17 @@ body {
 .container {
   width: 280px;
   margin: auto;
-  margin-top: 15vh;
+  margin-top: 25vh;
 }
 
 .main-container {
   padding: 10px;
   border-radius: 20px;
   background-color: var(--white-color);
+}
+
+.text-container {
+  padding: 10px 0px;
 }
 
 .header-text {
